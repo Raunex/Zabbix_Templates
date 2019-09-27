@@ -1,4 +1,4 @@
-#### Template Linux
+#### Template ESX4.1 Datastores
 
 Depências: **check_datastore-esx4.sh**
 
